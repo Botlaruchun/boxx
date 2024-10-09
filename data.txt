@@ -1,0 +1,1 @@
+query_id=AAERK4JrAgAAABErgmtF8Alp&user=%7B%22id%22%3A6098660113%2C%22first_name%22%3A%22Sarvarbek%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728452668&hash=3ade8a5d7f5278be292aaaac851709ac2351c6adde5d1dedb3768190e169ac6f
